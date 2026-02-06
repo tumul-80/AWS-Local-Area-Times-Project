@@ -1,3 +1,5 @@
+//This code is actually an AWS managed IAM Policy titled "AWSLambdaVPCAccessExecutionRole"
+
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -18,4 +20,5 @@
             "Resource": "*"
         }
     ]
+
 }
